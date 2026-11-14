@@ -1,0 +1,29 @@
+{
+  "network": "studio-dev",
+  "rpcUrl": "https://studio-dev.genlayer.com/api",
+  "chainId": 61997,
+  "contractAddress": "0xA8E20181AE15aa254339edE75786DaeEd9B48852",
+  "deploymentTx": "0x542864398980cbec32e59ff8754082622791ce2f8b4d8004028ab7a34215b898",
+  "registerMandateTx": "0xc288eb4ae04560506d832baa44af0981508f39667172bbb59186c86ef4b82376",
+  "lockMandateEvidenceTx": "0x4c2814d4a2f279631346078da37a1a89fbf78244ef967ff94d7d06ff583ae415",
+  "policyVersion": "delegation-court/1",
+  "rubricVersion": "delegation-court/caveat-rubric/1",
+  "canonicalSourceSha256": "44b260bd1d2bf87f4ce4dd03c9b018aab131c2022e589ee03f319f67bfb41d37",
+  "compactSourceSha256": "ff101d082b23ca6ea465ab53e1c57b3166f2107187913a8879efadcc88193d22",
+  "runner": "py-genlayer:babwp9t37jw9g4j2bccgn14g6x7x9s1f7dsmh7emvz735pz4zxa0",
+  "verified": true,
+  "e2eVerified": true,
+  "environmentType": "hosted-genlayer-testnet-simulator",
+  "publicChainDeploymentVerified": true,
+  "sampleReleaseIds": [
+    1
+  ],
+  "studioDevContractAddress": "0xA8E20181AE15aa254339edE75786DaeEd9B48852",
+  "studioDevDeploymentTx": "0x542864398980cbec32e59ff8754082622791ce2f8b4d8004028ab7a34215b898",
+  "studionetContractAddress": "0xA8E20181AE15aa254339edE75786DaeEd9B48852",
+  "studionetDeploymentTx": "0x542864398980cbec32e59ff8754082622791ce2f8b4d8004028ab7a34215b898",
+  "studionetRegisterMandateTx": "0xc288eb4ae04560506d832baa44af0981508f39667172bbb59186c86ef4b82376",
+  "studionetLockEvidenceTx": "0x4c2814d4a2f279631346078da37a1a89fbf78244ef967ff94d7d06ff583ae415",
+  "verifiedAt": "2026-11-14T01:18:07.828Z",
+  "adjudicateMandateTx": "0xe005103d6a21e3b87d5b7eb366d6d79b04ee67a7cbffe552c191a36e57d31c6d"
+}
